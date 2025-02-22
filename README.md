@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inventory & POS
 
 # React + TypeScript + Vite + shadcn + tailwind
@@ -130,3 +131,6 @@ Organization: It centralizes the state management logic, making it easier to und
 # Inventory
 =========
 >>>>>>>>> Temporary merge branch 2
+=======
+# Inventory
+>>>>>>> 193eb105288479d337fc8f1a7da6527597c9cd0f
